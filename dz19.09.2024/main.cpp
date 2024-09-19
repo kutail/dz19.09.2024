@@ -1,14 +1,9 @@
-//
-//  main.cpp
-//  dz19.09.2024
-//
-//  Created by Владислав on 19.09.2024.
-//
-
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main()
+{
+    
+    std::cout << " --------------------\n< I am a cow 'mu mu mu'>\n --------------------\n\t\t\\\t^__^\n\t\t \\\t(oo)\\_______\n\t\t\t(__)\\\t\t)\\/\\\n\t\t\t\t||----W |\n\t\t\t\t||\t   ||";
+
     return 0;
 }
